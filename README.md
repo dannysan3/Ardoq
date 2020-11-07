@@ -7,7 +7,7 @@ Another factor as to why the duration is the highest on Sundays, is due to the f
 
 My next findings was that the bikes were used for a shorter duration during the weekdays. This has to do with the opposite reasons as to why the bikes were mostly used on Sundays. Which is that people are back to work and they have more options when it comes to stores and public transportation. This results in the bikes being used for a short period of time because people might have other ways of transporting that they might find more convenient.  
 
-Photos from running osloBySykkel.py
+Photos from running osloBySykkel.py with the csv files from September and October
 
 ![image](https://media.github.uio.no/user/5443/files/46b6ba00-2068-11eb-8a26-c939751740f4)
 
