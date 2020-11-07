@@ -2,7 +2,7 @@ class Task1 {
 
   public static void main(String[] args){
 
-    int[] array = {1,20,2,6,5,3,2,25,33};
+    int[] array = {1,10,2,6,5,3};
     printLargest(array);
   }
 
@@ -11,8 +11,20 @@ class Task1 {
   static void printLargest(int[] n){
 
     selectionSort(n);
-    int len = n.length;
-    System.out.println(n[len-1]*n[len-2]*n[len-3]);
+    int size = n.length;
+   
+
+    int test = n[0]*n[1]*n[size-1];
+
+    int test2 = n[size-1]*n[size-2]*n[size-3];
+
+    if (test>test2){
+      System.out.println(test);
+    }
+    else {
+      System.out.println(test2);
+    }
+
   }
 
 
