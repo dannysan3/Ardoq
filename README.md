@@ -1,6 +1,6 @@
-# Task3
+Analysing OslobySykkel API
 
-For task 3: Here are my findings.
+Here are my findings.
 
 I discovered that people spent more time cycling on Sundays than they did during the other days. There are many factors as to why this is the case. First of all, Sundays are known to be a more quiet day which means that more stores are closed. People also have their time off from work and the public transport travel at a lower rate. This means that people on Sundays have less access to stores and transport, which leaves them the only option to look for another alternatives for transport.
 Another factor as to why the duration is the highest on Sundays, is due to the fact that people are more encouraged to do exercises or go on trips. This is because they usually dont have a large agenda on Sundays. This can for example mean taking a bike trip with friends or simply just exercise by using the bike.
