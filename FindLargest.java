@@ -1,4 +1,4 @@
-class Task1 {
+class FindLargest {
 
   public static void main(String[] args){
 
